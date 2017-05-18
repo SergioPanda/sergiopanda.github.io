@@ -19,7 +19,7 @@ body{
 	font-family: "Segou UI", Arial, sans-serif;
 	font-size: 1em;
 	line-height: 135%;
-	background: url(img/fon1.jpg);
+	background: url(Img/fon1.jpg);
 	background-attachment: fixed;
 	background-position: center;
 }
@@ -42,7 +42,7 @@ a, a:hover{
 
 }
 .sHpka{
-background-image:url(img/009.jpg);
+background-image:url(Img/009.jpg);
 background-position: center;
 background-size: 1000px;
 background-repeat: no-repeat;
@@ -137,7 +137,7 @@ display: none;
 position: absolute;
 /*background-color: #369;*/
 /*background-color:  #6B8E23;*/
-background-image:url(img/Podval2.png);
+background-image:url(Img/Podval2.png);
 color: #fff;
 width: 200px;
 margin-top: 15px;
@@ -174,7 +174,7 @@ cursor: auto;
 .Novosti
 {
 	
-	background: url(img/fon.jpg);
+	background: url(Img/fon.jpg);
 	/*background-image:url(maxresdefault.jpg);*/
 background-position: center;
 background-repeat: no-repeat;
@@ -193,7 +193,7 @@ background-attachment: fixed;
 {
 	color: #008000;
 	margin: 0px;
-background-image:url(img/Podval1.png);
+background-image:url(Img/Podval1.png);
 width: 1000px;
 height: 50px;
 border: 1px solid #228B22;
@@ -327,7 +327,7 @@ a.photo:hover img{
 	border: 3px solid #fff;
 }
 .Novost{
-background: url(img/fon.jpg);
+background: url(Img/fon.jpg);
 background-position: center;
 background-repeat: no-repeat;
 margin-top: 55px;
