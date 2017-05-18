@@ -1,0 +1,23 @@
+
+.Albom{
+	
+	
+/*background-image:url(Картинки/Podval.jpg);*/
+width: 1190px;
+height: 50px;
+margin: 0 auto;
+
+}
+
+.Foto{
+	width: 950px;
+	height: 50px;
+	margin: 0 auto;
+}
+.PhoStyly img{
+margin: 5px;
+border: 3px solid #FFFF00;
+}
+a.photo:hover img{
+	border: 3px solid #034f80;
+}
